@@ -1,0 +1,5 @@
+{
+    "image": "gcr.io/kaggle-images/python:latest",
+    "forwardPorts": [3000],
+    "extensions": ["dbaeumer.vscode-eslint"]
+  }
